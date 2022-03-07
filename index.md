@@ -1,6 +1,8 @@
-# Bienvenu sur le Support de l'application The Crux
+# Support de l'application The Crux
 
-L'application vous permet de suivre votre progression lors des block contenders a Paris.
+### Qu'est-ce que The Crux
+
+L'application The Crux vous permet de suivre votre progression lors des block contenders a Paris.
 
 ## Ecran Checklist
 

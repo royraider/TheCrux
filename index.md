@@ -2,16 +2,24 @@
 
 ### Qu'est-ce que The Crux
 
-L'application The Crux vous permet de suivre votre progression lors des block contenders a Paris.
+The Crux est une application qui vous propose de suivre de manière digitale votre progression dans des concours d'escalade.
 
-## Ecran Checklist
+## Ecran Concour
 
-Via un simple "Touch" vous pouvez ici selectionner les voies que vous avez reussi.
-
-## Ecran Stats
-
-Vous avez acces a cet ecran via l'icone "i" en haut a droite de l'ecran Checklist. il vous permet pour l'instant de mettre a jour votre username visible sur l'ecran classement
+Lorsqu'un concours est en cours, vous pouvez d'un simple touch valider les blocs reussi.
 
 ## Ecran Classement
 
-Mis a jours toutes les heures cet ecran vous permet de suivre l'evolutions du classement des differents utilisateurs de l'Application The Crux
+Vous pouvez ici consulter votre classement actuel et regarder la progression des autres grimpeurs.
+Ce classement est mis a jours toute les 5 minutes.
+
+## Confidentialite
+
+The crux est une application independante, vos donnees restent privee, seul votre username, instagram*, sexe & photo* sont publique.
+
+Dans le cadre ou vous participez a un concour organiser par une salle d'escalade, vos donnees (Nom, Prenom, Email) pourront cependant etre partagees avec la salle en charge du concours. Si ces donnees sont incorrectes, la salle n'aura aucun moyen de vous contacter, vous perdrez alors toute possibilite de tirage au sort ou de pariticipations aux finales.
+
+## Information developpeur
+
+Je suis moi meme un grimpeur et realise cette application avant tout par passion. 
+Bien que j'essais de la rendre le plus stable possible, je m'excuse par avance s'il advennait que vous soyez impacté par un dysfonctionnement. N'hesitez pas a me contacter en cas de questions via [instagram (roy_raider)](https://www.instagram.com/roy_raider/)

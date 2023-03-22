@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-#header, .credits {
+#header, .credits, #title {
   display: none
 }

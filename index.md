@@ -8,7 +8,7 @@ The Crux est une application qui vous propose de suivre de manière digitale vot
 
 The crux est une application independante, vos donnees restent privee, seul votre username, instagram*, sexe & photo* sont publique.
 
-Dans le cadre ou vous participez a un concour organiser par une salle d'escalade, vos donnees (Nom, Prenom, Email) pourront cependant etre partagees avec la salle en charge du concours. Si ces donnees sont incorrectes, la salle n'aura aucun moyen de vous contacter, vous perdrez alors toute possibilite de tirage au sort ou de pariticipations aux finales.
+Dans le cadre ou vous participez a un concour organiser par une salle d'escalade, vos donnees (Nom, Prenom, Email) pourront cependant etre partagees avec la salle en charge du concours. Si ces donnees sont incorrectes, la salle n'aura aucun moyen de vous contacter, et vous perdrez alors toute possibilite de tirage au sort ou de pariticipations aux finales. La salle s'engage cependant a ne pas utiliser ces informations a des fin de communication commercial.
 
 ## Information developpeur
 
@@ -28,7 +28,7 @@ Ce classement est mis a jours toute les 5 minutes.
 
 Vous pouvez ici votre photo & votre pseudo. En selectionnant "Modifier" vous pourrez modifier votre profil.
 
-# Ecran Modification de Probile
+# Ecran Modification de Profile
 
 Vous pouvez ici modifier vos informations personnels (Votre photo n'est pas encore modifiable, celle-ci est obtenu a partir de votre photo public Instagram)
 Vous ne pourrez participer officielement a un concours sans votre Age & Sexe mis a jours.

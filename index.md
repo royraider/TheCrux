@@ -66,8 +66,11 @@ Vous pouvez ici modifier vos informations personnels
 
 ## Système à 1000 points
 
-Système à 1000 points consiste à distribuer 1000 points entre chaque participant ayant réussi un bloc. Ainsi un bloc rapportera 1000 points si vous êtes seul à le réussir et 10 points si vous êtes 100.
-La zone fonctionne sur le même principe mais avec 500 points. Ainsi si vous ne faites que zoner un bloc toper par 100 personne et zoner par 100 autres, celle-ci rapportera 2.5points (500/(100+100))
+Le système à 1000 points consiste à distribuer 1000 points entre chaque participant ayant réussi un bloc. 
+`Ainsi un bloc rapportera 1000 points si vous êtes seul à le réussir et 10 points si vous êtes 100.`
+
+La zone fonctionne sur le même principe mais avec 500 points. 
+`Ainsi si vous ne faites que zoner un bloc toper par 100 personne et zoner par 100 autres, celle-ci rapportera 2.5points (500/(100+100))`
 
 
 # Informations

@@ -19,6 +19,9 @@ Bien que j'essais de la rendre le plus stable possible, je m'excuse par avance s
 
 Lorsqu'un concours est en cours, vous pouvez d'un simple touch valider les blocs reussi.
 
+### Bloc Zone
+![Bloc Zone](https://thewall.warchief-raider.com/images/app/onboarding/crux-zone.gif)
+
 ## Ecran Classement
 
 Vous pouvez ici consulter votre classement actuel et regarder la progression des autres grimpeurs.

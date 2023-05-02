@@ -1,21 +1,12 @@
-# Support de l'application The Crux
-
 ### Qu'est-ce que The Crux
 
 The Crux est une application qui vous propose de suivre de manière digitale votre progression dans des concours d'escalade.
 
-## Confidentialité
 
-The crux est une application indépendante, vos données restent privee, seul votre username, instagram*, sexe & photo* sont publiques.
-
-Dans le cadre ou vous participez à un contest organisé par une salle d'escalade, vos données (Nom, Prénom, Email) pourront cependant être partagées avec la salle en charge du contest. Si ces données sont incorrectes, la salle n'aura aucun moyen de vous contacter, et vous perdrez alors toute possibilité de tirage au sort ou de participation aux finales. La salle s'engage cependant à ne pas utiliser ces informations à des fins de communication commerciale.
-
-## Information développeur
-
-Je suis moi même un grimpeur et réalise cette application avant tout par passion. 
-Bien que j'essaye de la rendre le plus stable possible, je m'excuse par avance s'il advenait que vous soyez impacté par un dysfonctionnement. N'hésitez pas à me contacter en cas de questions via [instagram (roy_raider)](https://www.instagram.com/roy_raider/)
 
 # Aide Application
+
+
 
 ## Écran Contest
 C’est ici que vous gérez votre progression dans le contest !
@@ -57,3 +48,23 @@ Vous pouvez ici faire un point sur votre participation ainsi que visualiser vos 
 ## Ecran Modification de Profile
 
 Vous pouvez ici modifier vos informations personnels
+
+# Informations supplémentaires
+
+## Confidentialité
+
+The crux est une application indépendante, vos données restent privees, seul votre username, instagram*, classement & photo* sont publiques.
+
+Dans le cadre où vous participez à un contest organisé par une salle d'escalade, vos données (Nom, Prénom, Email) pourront cependant être partagées avec la salle en charge du contest. Si ces données sont incorrectes, la salle n'aura aucun moyen de vous contacter, et vous perdrez alors toute possibilité de tirage au sort ou de participation aux finales. La salle s'engage cependant à ne pas utiliser ces informations à des fins de communication commerciale.
+ [plus d’informations](https://www.freeprivacypolicy.com/live/5ad62da3-46c0-464e-99c7-6c17ed856f1c)
+
+
+## Information développeur
+
+Fraîchement passionnée d’escalade depuis 2ans je réalise cette application seul et le Paname Bloc Contenders #3 sera sa première utilisation grand publique. 
+
+Bien que j'essaye de la rendre la plus stable et efficace possible, je m'excuse par avance s'il advenait que vous soyez impacté par un dysfonctionnement. N'hésitez pas à me contacter en cas de questions via [instagram (roy_raider)](https://www.instagram.com/roy_raider/)
+
+## Remerciement 
+
+Je remercie tous les amis grimpeurs que je connais de près ou de loin qui ont utilisé l’application lors de précédentes éditions qui m’ont motivé à la faire grandir, ainsi qu’à l’équipe de Vertical’Art pour leur confiance sur ce premier événement !

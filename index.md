@@ -67,9 +67,11 @@ Vous pouvez ici modifier vos informations personnels
 ## Système à 1000 points
 
 Le système à 1000 points consiste à distribuer 1000 points entre chaque participant ayant réussi un bloc. 
+
 `Ainsi un bloc rapportera 1000 points si vous êtes seul à le réussir et 10 points si vous êtes 100.`
 
 La zone fonctionne sur le même principe mais avec 500 points. 
+
 `Ainsi si vous ne faites que zoner un bloc toper par 100 personne et zoner par 100 autres, celle-ci rapportera 2.5points (500/(100+100))`
 
 
@@ -88,11 +90,11 @@ Dans le cadre où vous participez à un contest organisé par une salle d'escala
 ## Développeur
 
 
-Fraîchement passionnée d’escalade depuis 2ans je réalise cette application seul et le Paname Bloc Contenders #3 sera sa première utilisation grand publique. 
+Fraîchement passionné d’escalade depuis 2ans je réalise cette application seul et le Paname Bloc Contenders #3 sera sa première utilisation grand publique. 
 
 Bien que j'essaye de la rendre la plus stable et efficace possible, je m'excuse par avance s'il advenait que vous soyez impacté par un dysfonctionnement. N'hésitez pas à me contacter en cas de questions via [instagram (roy_raider)](https://www.instagram.com/roy_raider/)
 
 
 ## Remerciements
 
-Je remercie tous les amis grimpeurs que je connais de près ou de loin qui ont utilisé l’application lors de précédentes éditions qui m’ont motivé à la faire grandir, ainsi qu’à l’équipe de Vertical’Art pour leur confiance sur ce premier événement !
+Je remercie tous les amis grimpeurs que je connais de près ou de loin qui ont utilisé l’application lors de précédentes éditions et qui m’ont motivé à la faire grandir, ainsi qu’à l’équipe de Vertical’Art pour leur confiance sur ce premier événement !

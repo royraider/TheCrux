@@ -70,7 +70,7 @@ Système à 1000 points consiste à distribuer 1000 points entre chaque particip
 La zone fonctionne sur le même principe mais avec 500 points. Ainsi si vous ne faites que zoner un bloc toper par 100 personne et zoner par 100 autres, celle-ci rapportera 2.5points (500/(100+100))
 
 
-# Informations supplémentaires
+# Informations
 
 
 ## Confidentialité
@@ -82,7 +82,7 @@ Dans le cadre où vous participez à un contest organisé par une salle d'escala
  [plus d’informations](https://www.freeprivacypolicy.com/live/5ad62da3-46c0-464e-99c7-6c17ed856f1c)
 
 
-## Information développeur
+## Développeur
 
 
 Fraîchement passionnée d’escalade depuis 2ans je réalise cette application seul et le Paname Bloc Contenders #3 sera sa première utilisation grand publique. 

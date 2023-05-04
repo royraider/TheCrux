@@ -24,7 +24,7 @@ Zoner un bloc rouge, noir ou violet d’une simple pression.
 
 ### Bloc Top
 ![Bloc Top](https://thewall.warchief-raider.com/images/app/onboarding/crux-top.gif)
-Toper un bloc orange, vert ou bleu d’une simple pression. S’il saggit d’un bloc rouge, noir ou violet, vous devrez zoner le bloc avant de le toper sur l’application.
+Toper un bloc orange, vert ou bleu d’une simple pression. S’il s'aggit d’un bloc rouge, noir ou violet, vous devrez zoner le bloc avant de le toper sur l’application.
 
 ### Bloc Like
 ![Bloc Top](https://thewall.warchief-raider.com/images/app/onboarding/crux-like.gif)
@@ -34,11 +34,11 @@ Un bloc vous a particulièrement plu ? Faites le savoir aux autres participants 
 ## Écran Classement
 
 
-Vous pouvez consulter votre classement actuel et regarder la progression des autres grimpeurs. Ce classement est mis à jour toute les 5 minutes.
+Vous pouvez consulter votre classement actuel et regarder la progression des autres grimpeurs. Ce classement est mis à jour toutes les 5 minutes.
 
 ### Filtrer le classement
 ![Filtrer classement](https://thewall.warchief-raider.com/images/app/onboarding/crux-filter.gif)
-Filtrer le classement à votre convenance grâce au filtre.
+Filtrer le classement à votre convenance grâce aux filtres.
 
 ### Consulter la progression d’un autre participant
 ![Profile classement](https://thewall.warchief-raider.com/images/app/onboarding/crux-profile.gif)
@@ -46,19 +46,19 @@ Consulter d’une pression la progression d’un autre participant
 
 ### Consulter la page Instagram
 ![Insta  classement](https://thewall.warchief-raider.com/images/app/onboarding/crux-insta.gif)
-Ouvrez le profile instagram d’un participant
+Ouvrez le profile Instagram d’un participant
 
 
-## Ecran Profile
+## Écran Profil
 
 
 Vous pouvez ici faire un point sur votre participation ainsi que visualiser vos informations publiques (votre photo n’est pas encore modifiable). 
 
 
-## Ecran Modification de Profile
+## Écran Modification de Profil
 
 
-Vous pouvez ici modifier vos informations personnels
+Vous pouvez ici modifier vos informations personnelles
 
 
 # Fonctionnement Contest
@@ -68,11 +68,11 @@ Vous pouvez ici modifier vos informations personnels
 
 Le système à 1000 points consiste à distribuer 1000 points entre chaque participant ayant réussi un bloc. 
 
-`Ainsi un bloc rapportera 1000 points si vous êtes seul à le réussir et 10 points si vous êtes 100.`
+*Ainsi un bloc rapportera 1000 points si vous êtes seul à le réussir et 10 points si vous êtes 100.*
 
 La zone fonctionne sur le même principe mais avec 500 points. 
 
-`Ainsi si vous ne faites que zoner un bloc toper par 100 personne et zoner par 100 autres, celle-ci rapportera 2.5points (500/(100+100))`
+*Ainsi si vous ne faites que zoner un bloc topé par 100 personne et zoné par 100 autres, celle-ci rapportera 2.5points (500/(100+100))*
 
 
 # Informations
@@ -81,7 +81,7 @@ La zone fonctionne sur le même principe mais avec 500 points.
 ## Confidentialité
 
 
-The crux est une application indépendante, vos données restent privees, seul votre username, instagram*, classement & photo* sont publiques.
+The crux est une application indépendante, vos données restent privées, seul votre username, Instagram*, classement & photo* sont publiques.
 
 Dans le cadre où vous participez à un contest organisé par une salle d'escalade, vos données (Nom, Prénom, Email) pourront cependant être partagées avec la salle en charge du contest. Si ces données sont incorrectes, la salle n'aura aucun moyen de vous contacter, et vous perdrez alors toute possibilité de tirage au sort ou de participation aux finales. La salle s'engage cependant à ne pas utiliser ces informations à des fins de communication commerciale.
  [plus d’informations](https://www.freeprivacypolicy.com/live/5ad62da3-46c0-464e-99c7-6c17ed856f1c)
@@ -90,7 +90,7 @@ Dans le cadre où vous participez à un contest organisé par une salle d'escala
 ## Développeur
 
 
-Fraîchement passionné d’escalade depuis 2ans je réalise cette application seul et le Paname Bloc Contenders #3 sera sa première utilisation grand publique. 
+Fraîchement passionné d’escalade depuis 2 ans, je réalise cette application seul et son utilisation durant le Paname Bloc Contenders #3 sera son lancement. 
 
 Bien que j'essaye de la rendre la plus stable et efficace possible, je m'excuse par avance s'il advenait que vous soyez impacté par un dysfonctionnement. N'hésitez pas à me contacter en cas de questions via [instagram (roy_raider)](https://www.instagram.com/roy_raider/)
 
